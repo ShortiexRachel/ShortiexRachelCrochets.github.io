@@ -10,30 +10,3 @@ At ShortiexRachel Crochet, we believe that crochet is more than just a craft—i
 
 theme: MINIMAL
 theme: jekyll-theme-minimal
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Preethi's Web Page</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin-top: 100px;
-        }
-        .welcome-text {
-            font-size: 50px; /* Bigger font size */
-            font-weight: bold;
-            color: #333;
-        }
-    </style>
-</head>
-<body>
-
-    <div class="welcome-text">
-        Hello Welcome to Preethi's Web Page
-    </div>
-
-</body>
-</html>
